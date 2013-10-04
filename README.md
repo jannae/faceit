@@ -7,6 +7,7 @@ Code repo from Jannae's work from the Face It workshop at ITP.
 
 * [Ghost](ghost/)
 * [Heisenberg](heisenberg/)
+* [Node/Faceshift Data Experiment](faceshift/)
 
 ### Course Description
 
